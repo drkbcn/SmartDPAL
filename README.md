@@ -2,6 +2,9 @@
 
 # SmartDPAL
 
+[![Downloads](https://img.shields.io/github/downloads/drkbcn/SmartDPAL/total?label=downloads&color=2EE6A6)](../../releases)
+[![Latest release](https://img.shields.io/github/v/release/drkbcn/SmartDPAL?label=latest&color=3DA5FF)](../../releases/latest)
+
 **An independent, alternative Android app for your Deepal.**
 See your car's state at a glance, in a clean, modern interface.
 
