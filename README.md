@@ -62,6 +62,9 @@ SHA-256: c2:f2:4b:7d:02:d8:c5:04:0c:77:2b:a7:b4:5c:0f:33:33:86:60:2d:e4:a7:b2:18
 **Bluetooth key, vehicle sharing and remote parking**
 - Present in the app but **locked**. Bluetooth comfort commands exist behind a safety switch and have only been tested against a simulator; anything that could move the car is blocked on purpose.
 
+**Languages**
+- English and Spanish, following your phone's language, with a language switch on the sign-in screen and under **More → Language**. More languages can be added without code changes.
+
 **Everything else**
 - Dark, accessible interface (large text and screen-reader friendly, reduced-motion aware).
 - About screen with author links, update check, full disclaimer and open-source licences.
