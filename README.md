@@ -64,7 +64,7 @@ SHA-256: c2:f2:4b:7d:02:d8:c5:04:0c:77:2b:a7:b4:5c:0f:33:33:86:60:2d:e4:a7:b2:18
 - The command contract is community-documented and **not officially verified**. The meaning of *lock/unlock* has not been confirmed on a real car yet: the first time, try it with the car in front of you and check the result before relying on it.
 
 **Share your session with a QR (More → Share configuration)**
-- Shows your active session as an encrypted QR (protected by a password you choose) so another phone can use your car **without signing in**. It tells you what it implies and lets you pick how long it is valid (1 hour, 24 hours or 7 days).
+- Shows your active session as an encrypted QR (protected by a password you choose) so another phone can use your car **without signing in**. It tells you what it implies and lets you pick how long it is valid: 1 hour, 24 hours, 7 days, or the **maximum** your own session allows (the app shows how much time it has left, about 90 days). The other phone never renews the session, so the server may end it earlier; if it does, ask for a new QR.
 - Anyone with the QR **and** the password can see and control your car. Share it only with people you trust, and give them the password through another channel.
 - On the other phone, open **Scan configuration QR** on the sign-in screen (it is for SmartDPAL's own QR, not the car's). That phone never renews the session: it shows who shared it and until when, and asks for a new QR when it ends. A shared session cannot be shared again.
 - The shared session also ends as soon as anyone signs in with your account somewhere else.
